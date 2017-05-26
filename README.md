@@ -1,2 +1,2 @@
 # UdacitySchoolarship
-Project of Android Basics Udacity Scholarship 
+Projects of Android Basics Udacity Scholarship 
